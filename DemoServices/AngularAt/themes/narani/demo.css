@@ -1,0 +1,62 @@
+/* 
+    Document   : narani
+    Created on : Jul 22, 2014, 10:15:10 PM
+    Author     : Design_mylife
+    Description:Narani single and multi-page for Multipurpose use
+    Version    : V1.0
+*/
+/* ---------------------------------------------------------------------- */
+/*	Import Google Fonts
+/* ---------------------------------------------------------------------- */
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800');
+
+
+body { 
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;	
+    cursor:default;
+    color: #333;
+    font-size: 14px;
+    line-height: 24px;
+    background-color: #fff;
+    font-weight: 400;
+}
+.narani-header {
+    padding: 20px 0;
+    background-color: #333;
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+margin-bottom: 20px;
+}
+.narani-header h1{
+    color:#fff;
+    font-weight: 300;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+.narani-header p{
+    margin: 0px;
+    color:#777;
+}
+.demo-wrap{
+    margin-bottom: 70px;
+}
+.demo-option{
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-top: 30px;
+}
+.demo-option img{
+    margin-bottom: 30px;
+}
+.footer{
+  padding: 20px 0;
+}
+.footer p{
+    color:#777;
+    margin: 0;
+}

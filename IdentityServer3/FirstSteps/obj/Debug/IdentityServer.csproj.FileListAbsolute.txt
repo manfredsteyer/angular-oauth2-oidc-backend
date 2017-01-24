@@ -1,0 +1,433 @@
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.pdb
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Owin.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\WebGrease.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\idsrv3test.pfx
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manfred\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\idsrv3test.pfx
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Owin.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\WebGrease.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\KnowHow\IdentityServer\FirstSteps\FirstSteps\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\idsrv3test.pfx
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\WebGrease.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-wien\IdentityServer\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\idsrv3test.pfx
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\WebGrease.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ug-graz\IdentityServer\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\idsrv3test.pfx
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\ca.pfx
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Owin.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\WebGrease.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\ca-embedded.pfx
+C:\Users\steyer\Dropbox\Docs\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\idsrv3test.pfx
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\ca.pfx
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\ca-embedded.pfx
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\FirstSteps.pdb
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Owin.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\WebGrease.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\Manfred\Documents\Konferenzen\2015\ng-connect\IdentityServer\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\idsrv3test.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\ca.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\ca-embedded.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\FirstSteps.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\FirstSteps.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Owin.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\WebGrease.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Thinktecture.IdentityServer3.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\obj\Debug\FirstSteps.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\idsrv3test.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\ca.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\ca-embedded.pfx
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\FirstSteps.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\FirstSteps.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\IdentityServer3.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Owin.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\WebGrease.dll
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\IdentityServer3.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\IdentityServer3.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\Manfred\Documents\beratung\ASP.NET Web API\src\IdentityServer3\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\ca.pfx
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\FirstSteps.dll.config
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\FirstSteps.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\FirstSteps.pdb
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Antlr3.Runtime.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\IdentityServer3.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Newtonsoft.Json.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Owin.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Helpers.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Mvc.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Optimization.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Razor.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\WebGrease.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\IdentityServer3.pdb
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\IdentityServer3.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Helpers.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Mvc.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Optimization.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.Razor.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Antlr3.Runtime.pdb
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\bin\Newtonsoft.Json.xml
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\obj\Debug\FirstSteps.dll
+C:\Users\Manfred\Documents\artikel\Angular_Enterprise_JavaMagazin\Teil1_wd\src\server\IdentityServer3\FirstSteps\obj\Debug\FirstSteps.pdb
